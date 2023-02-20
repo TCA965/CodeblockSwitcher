@@ -8,16 +8,25 @@ http://grauonline.de/wordpress/?p=74
 The CodeblockSwitcher is a device to recode the VAG TDI ECUs via K-Line (kw1281) (for example: MSA15, EDC15 in Golf mk4, T4, etc).
 
 The ECUs are using different Codeblocks for different gearboxes:
+
 00001: Automatic Gearbox
+
 00002: Manual 2WD-Gearbox
+
 00003: Manual 4WD-Gearbox (syncro / 4motion / quattro)
+
 
 It is however possible to use this function for changing the power level of the engine.
 
+
 So:
+
 00001: Stock power output
+
 00002: Street power (chiptuning)
+
 00003: offroad / racing power
+
 
 Recoding of the ECU is usually a job for VCDS / VAG-Com.
 But this needs an computer....
